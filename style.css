@@ -46,6 +46,16 @@
     font-weight: 700;
 }
 
+.bt1 {
+    background-color: darkcyan;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 10px 50px 10px 50px;
+}
+
 .about {
     background-color: rgba(46, 172, 172, 0.24);
     background-size: cover;
