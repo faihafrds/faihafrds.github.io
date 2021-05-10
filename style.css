@@ -107,3 +107,7 @@ footer {
     color: white;
     text-align: center;
 }
+
+#porto .card {
+    background-color: rgba(46, 172, 172, 0.24);
+}
